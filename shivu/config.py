@@ -11,7 +11,7 @@ class Config(object):
     SUPPORT_CHAT = "fghu6yt"
     UPDATE_CHAT = "fghu6yt"
     BOT_USERNAME = "Waifubots_bot"
-    CHARA_CHANNEL_ID = "-1002362397427"
+    CHARA_CHANNEL_ID = "-1002617506862"
     api_id = 27479878
     api_hash = "05f8dc8265d4c5df6376dded1d71c0ff"
 
